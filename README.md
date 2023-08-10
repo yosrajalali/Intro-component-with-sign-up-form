@@ -8,7 +8,7 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://yosrajalali.github.io/Intro-component-with-sign-up-form/](https://yosrajalali.github.io/Intro-component-with-sign-up-form/)
 - Live Site URL: [https://yosrajalali.github.io/Intro-component-with-sign-up-form/](https://yosrajalali.github.io/Intro-component-with-sign-up-form/)
 
 ## Table of contents
