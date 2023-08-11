@@ -31,6 +31,8 @@ form.addEventListener('submit', (e) => {
   if (messages.length > 0) {
     e.preventDefault();
     displayErrorMessages(messages);
+  } else {
+    form.submit();
   }
 });
 
